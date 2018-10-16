@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dog Helper</string>
+    <string name="hospitalDesc">Find Veterinary</string>
+    <string name="bmiDesc">Dogplanner</string>
+    <string name="symptomsDesc">Check Symptoms</string>
+    <string name="notsureDesc">Dog Care</string>
+    <string name="dogtitle">Dog Coach</string>
+</resources>
