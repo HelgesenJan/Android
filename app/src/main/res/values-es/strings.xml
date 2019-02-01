@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Dog Coach</string>
+    <string name="hospitalDesc">Encontrar veterinaria</string>
+    <string name="Desc">Crear notas</string>
+    <string name="symptomsDesc">Combrobar los síntomas</string>
+    <string name="dogcareDesc">Cuidado del perro</string>
+    <string name="dogtitle">Dog Coach</string>
+    <string name="general">General</string>
+    <string name="video">Video</string>
+    <string name="links">Enlaces y video</string>
+    <string name="Chesym">Comprobar los síntomas</string>
+    <string name="symptoms">Síntomas</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="toomany">Demasiados intentos, inténtalo de nuevo más tarde:</string>
+    <string name="main">Menú principal</string>
+    <string name="createnotes">Crear nota</string>
+    <string name="cantbempty">Los campos no pueden estar vacíos</string>
+    <string name="reguser">Registrar</string>
+    <string name="passnomatch">La contraseña no coincide</string>
+    <string name="unableadduser">No se puede agregar usuario</string>
+    <string name="register">Registro</string>
+    <string name="newusername">Introduce un nuevi nombre de usuaro: </string>
+    <string name="newpass">Ingrese una neueva cintraseña: </string>
+    <string name="passconfirm">Introduzca una nueva contraseña confirmar: </string>
+    <string name="selectsymptom">Elegir sintomas</string>
+    <string name="remember">Recuerda ver al veterinario \npara consejo médico...</string>
+    <string name="posillness">Eneferme posibles</string>
+    <string name="hintselectdate">Seleccione fecha </string>
+    <string name="adddescrip">Agregar decripción </string>
+    <string name="username">Nombre de usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="attempsleft">Intentos restantes: </string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="createdMessage">Creado por el usuario</string>
+    <string name="OK">OK</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="clearall">Clear all</string>
+    <string name="spruceLink">
+        <a href="https://www.thesprucepets.com/dog-diseases-and-disorders-4162137">Tratamiento perro</a>
+    </string>
+    <string name="feverLink">
+        <a href="https://www.akc.org/expert-advice/health/dog-fever-and-temperature/">Fiebre temperatura</a>
+    </string>
+    <string name="vomitLink">
+        <a href="https://pets.webmd.com/dogs/vomiting-dogs-causes-treatment#1">Tratamiento vómitos</a>
+    </string>
+    <string name="link">Enlaces Útiles</string>
+    <string name="steps">10 pasos útiles</string>
+    <string name="rights">Todos los reservados a AnimalWised</string>
+    <string name="google">¿Continuar a google maps?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="loginFail">Nombre de usuario o contraseña incorrectos, inténtalo de nuevo</string>
+    <string name="userReg">Nuevo nombre de usuario</string>
+    <string name="pwOne">Nueva contraseña</string>
+    <string name="pwTwo">Confirmar contraseña</string>
+
+
+
+    <string-array name="symptoms">
+        <item>Itching</item>
+        <item>Infection</item>
+        <item>Restlessness</item>
+        <item>Blank eyes</item>
+        <item>Depression</item>
+        <item>Increased hunger</item>
+        <item>Fat lumps</item>
+        <item>Hypersensitive</item>
+        <item>Fear of water</item>
+        <item>Blackheads</item>
+        <item>Red bumps</item>
+        <item>Bloody feces</item>
+        <item>Nausea</item>
+        <item>Skin swellings</item>
+        <item>Inflammation</item>
+        <item>Facial swellings</item>
+        <item>Paralysis</item>
+        <item>Muscle tremors</item>
+        <item>Bloody urine</item>
+        <item>Painful urination</item>
+        <item>Abnormal breathing</item>
+        <item>Weakness</item>
+        <item>Tired</item>
+        <item>Heart murmur</item>
+        <item>Coughing</item>
+        <item>Coma</item>
+        <item>Hemorrhages</item>
+        <item>Shock</item>
+    </string-array>
+
+
+    <string name="title_activity_dogcare">Dogcare</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>

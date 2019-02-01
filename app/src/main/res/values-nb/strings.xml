@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Dog Coach</string>
+    <string name="hospitalDesc">Finn veterinær</string>
+    <string name="Desc">Lag notater</string>
+    <string name="symptomsDesc">Sjekk symptomer</string>
+    <string name="dogcareDesc">Hundehjelp</string>
+    <string name="dogtitle">Dog Coach</string>
+    <string name="general">Lenker</string>
+    <string name="video">Video</string>
+    <string name="links">Lenker og Video</string>
+    <string name="Chesym">Sjekk Symptomer</string>
+    <string name="symptoms">Symptomer</string>
+    <string name="login">Logg inn</string>
+    <string name="toomany">For mange forsøk, prøv igjen senere</string>
+    <string name="main">Hovedmeny</string>
+    <string name="createnotes">Lag notat</string>
+    <string name="cantbempty">Feltene kan ikke være tomme</string>
+    <string name="reguser">Registrer</string>
+    <string name="passnomatch">Passord stemmer ikke</string>
+    <string name="unableadduser">Kan ikke legge til bruker</string>
+    <string name="register">Registrer</string>
+    <string name="newusername">Skriv inn nytt brukernavn: </string>
+    <string name="newpass">Skriv inn nytt passord: </string>
+    <string name="passconfirm">Skriv inn nytt passord for å bekrefte: </string>
+    <string name="selectsymptom">Velg symptomer</string>
+    <string name="remember">Husk å kontakte veterinær\n for medisinsk rådgiving...</string>
+    <string name="posillness">Mulige sykdommer</string>
+    <string name="hintselectdate">Velg dato </string>
+    <string name="adddescrip">Legg til beskrivelse </string>
+    <string name="username">Brukernavn:</string>
+    <string name="password">Passord:</string>
+    <string name="attempsleft">Gjenværende forsøk: </string>
+    <string name="logout">Logg ut</string>
+    <string name="createdMessage">Bruker opprettet</string>
+    <string name="OK">OK</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="clearall">Clear all</string>
+    <string name="spruceLink">
+        <a href="https://www.thesprucepets.com/dog-diseases-and-disorders-4162137">Symptomsbehandling</a>
+    </string>
+    <string name="feverLink">
+        <a href="https://www.akc.org/expert-advice/health/dog-fever-and-temperature/">Hundefeber og temperatur</a>
+    </string>
+    <string name="vomitLink">
+        <a href="https://pets.webmd.com/dogs/vomiting-dogs-causes-treatment#1">Behandling for oppkast</a>
+    </string>
+    <string name="link">Lenker</string>
+    <string name="steps">10 nyttige steg</string>
+    <string name="rights">Alle rettigheter forbeholdt til AnimalWised</string>
+    <string name="google">Fortsett til google maps?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nei</string>
+    <string name="loginFail">Feil brukernavn eller passord, prøv igjen</string>
+    <string name="userReg">Nytt brukernavn</string>
+    <string name="pwOne">Nytt passord</string>
+    <string name="pwTwo">Bekreft passord</string>
+
+    <string-array name="symptoms">
+        <item>Itching</item>
+        <item>Infection</item>
+        <item>Restlessness</item>
+        <item>Depression</item>
+        <item>Blank eyes</item>
+        <item>Increased hunger</item>
+        <item>Fat lumps</item>
+        <item>Hypersensitive</item>
+        <item>Fear of water</item>
+        <item>Blackheads</item>
+        <item>Red bumps</item>
+        <item>Bloody feces</item>
+        <item>Nausea</item>
+        <item>Skin swellings</item>
+        <item>Inflammation</item>
+        <item>Facial swellings</item>
+        <item>Paralysis</item>
+        <item>Muscle tremors</item>
+        <item>Bloody urine</item>
+        <item>Painful urination</item>
+        <item>Abnormal breathing</item>
+        <item>Weakness</item>
+        <item>Tired</item>
+        <item>Heart murmur</item>
+        <item>Coughing</item>
+        <item>Coma</item>
+        <item>Hemorrhages</item>
+        <item>Shock</item>
+    </string-array>
+
+    <string name="title_activity_dogcare">Dogcare</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>
